@@ -25,10 +25,10 @@ Spawn from lyceum I'm cultivating (8)
 
 Astonishing bit of Obama zinger (7)
 
+Imposing yet fabulous (7)
 
+Next to post, showing contrast (13)
 ```
-
-
 
 A local agent workflow for setting cryptic crossword clues from a seed word. It
 does the combinatorial spadework deterministically, fans out agents to
